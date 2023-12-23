@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Devloper
 ---------------
 
-👨‍💻 Computer Science student 🐍 Proficient in Python; love solving problems with code 🌱 Always eager to learn new programming languages 📚 Balancing studies while diving deep into the coding realm 🚀 Passionate about tech trends and open source projects 💻 On a mission to be great Programmer
+👨‍💻 Computer Science student 
+🐍 Proficient in Python; love solving problems with code 
+🌱 Always eager to learn new programming languages 
+📚 Balancing studies while diving deep into the coding realm 
+🚀 Passionate about tech trends and open source projects 
+💻 On a mission to be great Programmer
 
 * 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [bikramkhatri050@gmail.com](mailto:bikramkhatri050@gmail.com)
