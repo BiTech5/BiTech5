@@ -50,6 +50,12 @@ I love building things with code — whether it’s frontend interfaces, backend
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
   </a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" />
+</a>
+<a href="https://daisyui.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/93928794?s=200&v=4" width="36" height="36" alt="DaisyUI" />
+</a>
 
   <!-- Backend -->
   <a href="https://www.djangoproject.com/" target="_blank">
